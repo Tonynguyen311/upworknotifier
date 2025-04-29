@@ -1,1 +1,1 @@
-worker: python upwork_notifier.py
+worker: run python upwork_notifier.py
